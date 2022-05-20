@@ -2,7 +2,7 @@ print("Autofarm Loaded!")
 
     --Auto-World
 
-    _G.AutoWorld = false
+    _G.AutoWorld = true
 
     while _G.AutoWorld == true do
         wait(3)
