@@ -7,7 +7,7 @@ print("loaded")
 
 getgenv().autoOrb = false
 getgenv().autoLaunch = false
-getgenv().autoView = false
+getgenv().autoView = true
 -- hatching
 getgenv().triple = false
 getgenv().octuple = false
